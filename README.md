@@ -1,2 +1,2 @@
-# LagindPage-Nextcent
- Aprimorando conhecimentos com HTML e CSS desenvolvimento essa lagind page.
+# Landing-Page-Nexcent
+ Aprimorando conhecimentos com HTML e CSS desenvolvimento essa landing page.
